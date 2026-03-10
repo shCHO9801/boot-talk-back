@@ -89,8 +89,7 @@ BootTalk은 다음과 같은 기능을 제공합니다.
 ### 소셜 로그인 및 인증
 
 네이버 OAuth 2.0 기반 소셜 로그인과 JWT 기반 인증 구조를 적용하였습니다.
-
-<img width="800" src="https://github.com/user-attachments/assets/3bc595a4-3329-4604-a356-e7d20be2cfa6" />
+![소셜로그인](https://github.com/user-attachments/assets/9cf79d6c-c829-49cf-a0b1-c476b72eb18f)
 
 ---
 
@@ -107,20 +106,18 @@ Spring Batch를 활용하여 외부 API 기반 부트캠프 정보를 자동으�
 지역, 카테고리, 평점, 기간 등의 조건을 기반으로 부트캠프를 검색하고 탐색할 수 있습니다.
 
 부트캠프 필터링 조회
-
-<img width="800" src="https://github.com/user-attachments/assets/99139c55-3362-42bc-a6b0-77b218617d57" />
+![필터링](https://github.com/user-attachments/assets/e945423c-a3bb-4473-9495-5e9f9e716219)
 
 부트캠프 자동완성 검색
+![자동완성](https://github.com/user-attachments/assets/e850b313-2fe3-4631-89ec-945313708842)
 
-<img width="800" src="https://github.com/user-attachments/assets/2784b9c4-3490-4a62-9607-f627d811c996" />
 
 ---
 
 ### 커피챗 멘토 탐색
 
 사용자는 관심 있는 멘토를 조회하고 커피챗을 신청할 수 있습니다.
-
-<img width="800" src="https://github.com/user-attachments/assets/c2c2103d-5616-4f86-80f0-8695b60562cd" />
+![Untitled design](https://github.com/user-attachments/assets/76d42ac9-7dce-4fda-92cc-60a84a7128f3)
 
 ---
 
@@ -129,12 +126,10 @@ Spring Batch를 활용하여 외부 API 기반 부트캠프 정보를 자동으�
 WebSocket 기반 채팅과 SSE 기반 알림을 통해 사용자 간 실시간 상호작용을 제공합니다.
 
 멘토-멘티 간 실시간 채팅
-
-<img width="800" src="https://github.com/user-attachments/assets/308ec404-bbf5-40cb-b4e9-96c32c8deb39" />
+![0](https://github.com/user-attachments/assets/550e8fd3-1c70-4b56-bdc9-866503eb3e60)
 
 실시간 알림
-
-<img width="800" src="https://github.com/user-attachments/assets/a284155e-64e6-478c-a16d-4c72f62bda30" />
+![1](https://github.com/user-attachments/assets/1b486125-7dde-4564-abad-610861604e3a)
 
 <img width="484" src="https://github.com/user-attachments/assets/81ac2b62-736e-4421-bea7-5f887e5b3b63" />
 
@@ -143,8 +138,7 @@ WebSocket 기반 채팅과 SSE 기반 알림을 통해 사용자 간 실시간 �
 ### 이미지 업로드
 
 AWS S3를 활용하여 리뷰 및 인증 이미지 업로드 기능을 구현하였습니다.
-
-<img width="800" src="https://github.com/user-attachments/assets/73575c93-1a6b-4563-a877-5b6fcf39d1e9" />
+![2](https://github.com/user-attachments/assets/9a4e2309-e10c-4589-85d8-116f08f88d08)
 
 ---
 
